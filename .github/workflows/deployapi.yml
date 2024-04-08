@@ -20,3 +20,7 @@ jobs:
 
             - name: Build
               run: dotnet build ./AzureNET7API/AzureNET7API.csproj --configuration Release --no-restore
+            
+            # Publish
+            - name: Publish
+              run: dotnet publish ./AzureNET7API/AzureNET7API.csproj --configuration Release --output ./publish
