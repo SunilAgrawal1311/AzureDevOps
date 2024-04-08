@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRSMgsc5Ep9XG92RWgy2PA1NyHPi2tHU5Oq0RZOzecXxCQmZ6I+Uyh8wfG+hIJlCw7EbCrb5VXFUHyD2H8BKlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Sunil\\Personal\\Learn\\Azure\\AzureDevOps\\AzureNET7API\\AzureNET7API\\AzureNET7API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Sunil Agarwal\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

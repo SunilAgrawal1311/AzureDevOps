@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AzureNET7API.props" />
+</Project>
