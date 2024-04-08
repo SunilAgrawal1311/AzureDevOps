@@ -4,6 +4,9 @@ name: Deploy SuperHero NET 7 API
 
 on:
     workflow_dispatch:
+    push:
+      branches:
+      - main
 
 env:
   AZURE_WEBAPP_NAME: "AzureNET7API20240408193444"
