@@ -19,6 +19,7 @@ namespace AzureNET7API.Controllers
             List<SuperHero> list = new List<SuperHero>();
             list.Add(new SuperHero { Id = 1, Name = "SpiderMan", FirstName = "Peter", LastName = "Parkar", City = "New York" });
             list.Add(new SuperHero { Id = 2, Name = "ShaktiMan", FirstName = "Mukesh", LastName = "Khanna", City = "Mumbai" });
+            list.Add(new SuperHero { Id = 3, Name="Batman", FirstName="Brad", LastName="Pit", City="Washington"});
 
             return Ok(list);
 
